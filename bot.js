@@ -1,4 +1,5 @@
-/* Copyright (C)2020 Yusuf Usta.
+/* Copyright (C)2022Yusuf Usta.
+
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 WhatsAsena - Yusuf Usta
@@ -210,7 +211,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         var abc = config.BLOCKCHAT.split(',');                            
         if(msg.key.remoteJid.includes('g.us') ? abc.includes(msg.key.remoteJid.split('@')[0]) : abc.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }
-    if (config.SUPPORT == '919074309534-1632403322') {     
+    if (config.SUPPORT == '917489934326') {     
         var sup = config.SUPPORT.split(',');                            
         if(msg.key.remoteJid.includes('g.us') ? sup.includes(msg.key.remoteJid.split('@')[0]) : sup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }         
@@ -277,8 +278,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                         } catch (error) {
                             if (config.NOLOG === 'off') {
                                 
-                                await conn.sendMessage(conn.user.jid, '*~_________~ AMRU SER ~______~*' +
-                                    '\n*🌀 Follow this page other wise chance to get erorr: https://youtu.be/OYhA_ZNQ4GQ*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ UMASHANKAR ~______~*' +
+                                    '\n*🌀 Follow this page other wise chance to get erorr: https://youtu.be/pP2QZ59T2fo*' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
