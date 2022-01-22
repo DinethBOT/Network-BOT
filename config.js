@@ -17,7 +17,7 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 
 module.exports = {
     VERSION: 'v7.3.6',
-    CHANNEL: 'https://t.me/remasterplugin',
+    GROUP: 'https://t.me/shayari_jok',
     SESSION: process.env.AMALSER_CODE === undefined ? '' : process.env.AMALSER_CODE,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
@@ -85,9 +85,9 @@ module.exports = {
     SUDO: process.env.SUDO === undefined ? false : process.env.SUDO,
     DEBUG: DEBUG,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
-    BOTCREATOR: "afnanplk",
-    MAHN: "919072790587,0",
-    SUPPORT: "919072790587-1635775355",
-    SUPPORT2: "905511384572-1617736751",
-    SUPPORT3: "905511384572-1621015274"
+    BOTCREATOR: "UMASHANKAR Yadav",
+    MAHN: "917489934326"
+    SUPPORT: "917489934326",
+    SUPPORT2: "917489934326",
+    SUPPORT3: "917489934326"
 };
