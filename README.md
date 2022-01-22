@@ -35,11 +35,11 @@ Project created by <a href="https://github.com/AMRUSIR-AMRUSER">AMRU-SER</a> to 
 
 ## Click Instagram logo to follow this page👇
 
- [![ANY DOUBT REFER IT](https://i.imgur.com/j1x0HpA.jpeg)](https://instagram.com/its_me_dron)
+ [![ANY DOUBT REFER IT](https://i.imgur.com/j1x0HpA.jpeg)](https://instagram.com/umashankar31981)
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AMRUSIR/AMRU-SER.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/umashankar3/AMRU-SER.git)
 
 
 
@@ -51,7 +51,7 @@ Project created by <a href="https://github.com/AMRUSIR-AMRUSER">AMRU-SER</a> to 
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/AMRUSIR/AMRU-SER
+$ git clone https://github.com/umashankar3/AMRU-SER
 $ cd AMRU-ser
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -60,7 +60,7 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/AMRUSIR/AMRU-SER
+$ git clone https://github.com/umashankar3/AMRU-SER
 $ cd AMRU-SER
 $ npm i
 $ node julie.js
@@ -69,26 +69,26 @@ $ node julie.js
 ----
 
   <p align="center">
-  <a href="https://github.com/AMRUSIR/AMRU-SER">
+  <a href="https://github.com/umashankar3/AMRU-SER">
     
-<a href="https://github.com/AMRUSIR/followers">
+<a href="https://github.com/umashankar3/followers">
 <img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroserv1_v2?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/AMRUSIR/followers"
+<a href="https://github.com/umashankar3/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/AMRUSIR/AMRU-SER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AMRUSIR/AMRU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/AMRUSIR/AMRU-SER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AMRUSIR/AMRU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/AMRUSIR/AMRU-SER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AMRUSIR/AMRU-SER?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/umashankar3/AMRU-SER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AMRUSIR/AMRU-SER?color=blue&style=flat-square"></a>
+<a href="https://github.com/umashankar3/AMRU-SER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AMRUSIR/AMRU-SER?color=blue&style=flat-square"></a>
+<a href="https://github.com/umashankar3/AMRU-SER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AMRUSIR/AMRU-SER?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LDBTpyIdi6F3Cc2KVQj0kj)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRUSIR&repo=AMRU-ser&theme=nightowl)](https://github.com/AMRUSIR/AMRU-SER)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRUSIR&repo=AMRU-ser&theme=nightowl)](https://github.com/Umashankar3/AMRU-SER)
   </div>
     
 ### ⚠ Warning ⚠
@@ -107,14 +107,14 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![AMRU-SER](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917025631103?text=Can%20you%20help%20bro)**
+**[![AMRU-SER](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917489934326?text=Can%20you%20help%20bro)**
 
 ## Developers
   <div align="center">
     
-  [![AMRU-SER](https://github.com/AMRUSIR.png?size=100)](https://github.com/AMRUSIR) | [![Arx-Abu](https://github.com/Arx-Abu.png?size=100)](https://github.com/Arx-Abu) 
+  [![AMRU-SER](https://github.com/AMRUSIR.png?size=100)](https://github.com/umashankar3) | [![Arx-Abu](https://github.com/Arx-Abu.png?size=100)](https://github.com/umashankar3) 
 ----|----|----|----
-[AMRU-SER](https://github.com/AMRUSIR) | [Arx-Abu](https://github.com/Arx-Abu)
+[UMASHANKAR](https://github.com/umashankar3) | [YouTube](https://youtu.be/pP2QZ59T2fo)
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
