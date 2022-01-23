@@ -1,4 +1,4 @@
-/* Copyright (C) 2020 Yusuf Usta.
+/* Copyright (C) 2022 Yusuf Usta.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
@@ -7,7 +7,7 @@ WhatsAsena - Yusuf Usta
 */
 
 const chalk = require('chalk');
-const {WAConnection, MessageOptions, MessageType} = require('@adiwajshing/baileys');
+const {WAConnection, MessageOptions, MessageType} = require('@umashankar3/baileys');
 const {StringSession} = require('./julie/');
 const fs = require('fs');
 
