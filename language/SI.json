@@ -1,7 +1,7 @@
 {
-    "__ASENAJSON__": true,
-    "LANGUAGE": "Español",
-    "LANGCODE": "es",
+    "__ASENAJSON__": false,
+    "LANGUAGE": "sinhala",
+    "LANGCODE": "si",
     "AUTHOR": "Phaticusthiccy / Skueletor",
     "STRINGS": {
         "_asena": {
