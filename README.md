@@ -39,7 +39,7 @@ Project created by <a href="https://github.com/AMRUSIR-AMRUSER">AMRU-SER</a> to 
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/umashankar3/AMRU-SER.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dinetha/Network-BOT.git)
 
 
 
@@ -51,8 +51,8 @@ Project created by <a href="https://github.com/AMRUSIR-AMRUSER">AMRU-SER</a> to 
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/umashankar3/AMRU-SER
-$ cd AMRU-ser
+$ git clone https://github.com/dinetha/Network-BOT
+$ cd Network-BOT
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -60,8 +60,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/umashankar3/AMRU-SER
-$ cd AMRU-SER
+$ git clone https://github.com/dinetha/Network-BOT
+$ cd Network-BOT
 $ npm i
 $ node julie.js
 ```
